@@ -6,5 +6,5 @@
     "strict": true,
     "target":"ES2015"
   },
-  "include": ["src"]
+  "include": ["src", "src/L1-basic-types"]
 }
